@@ -1,6 +1,5 @@
 # DC-Nitro-x-GX-Bot
 
-Cara pakai
 paste script ke file "namafile.js"
 lalu buka cmd di direktori filenya dan install crypto module
 "npm i crypto"
